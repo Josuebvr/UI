@@ -1,0 +1,8 @@
+Por que é importante utilizar o charset="UTF-8"?
+
+Para que todos os usuários vejam o site com o dicionário correto
+É preciso apontar para o navegador que estamos usando um dicionário que tenha acentos e cedilha, sinais gráficos comuns na língua portuguesa.
+
+Podemos escrever em qualquer idioma, mas para exibir esse conteúdo sem erros é necessário configurar corretamente.
+
+Sem ele o acesso à página sempre será possível, mas pode ser difícil compreender as informações de um site em um idioma desconhecido.
