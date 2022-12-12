@@ -1,0 +1,4 @@
+Qual é a diferença entre inserir informações na tag head e na tag body?
+
+O conteúdo fica no body e informações no head
+Na estrutura correta do HTML, inserimos as informações que queremos passar para o navegador no head e as tags de conteúdo no body.
