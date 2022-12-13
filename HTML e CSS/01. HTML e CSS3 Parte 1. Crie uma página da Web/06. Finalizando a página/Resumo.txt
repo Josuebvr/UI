@@ -1,0 +1,9 @@
+Nesta aula, aprendemos:
+
+O conceito de cabeçalho da página e como criá-lo
+
+Que o cabeçalho da página deve ter mais destaque
+
+Que não é recomendado criar estilos usando tags
+
+O ideal é usarmos classes para tudo
