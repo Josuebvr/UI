@@ -1,0 +1,7 @@
+Nesta aula, aprendemos:
+
+Como remover os estilos que o navegador cria automaticamente
+
+Como funciona os posicionamentos static, relative e absolute dos elementos
+
+Como posicionar o cabeçalho da nossa página
