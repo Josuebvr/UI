@@ -1,0 +1,9 @@
+Nesta aula, vimos:
+
+Uma introdução ao projeto do treinamento
+
+Uma revisão do conteúdo aprendido no treinamento anterior
+
+Uma revisão da base de uma página HTML
+
+Lista HTML não ordenada
