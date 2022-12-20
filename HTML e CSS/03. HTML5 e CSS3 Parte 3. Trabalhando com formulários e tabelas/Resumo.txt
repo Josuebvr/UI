@@ -1,6 +1,6 @@
 1. Criando uma nova página
 
-Nesta aula, vi:
+Nesta aula, aprendi:
 
 Uma revisão do conteúdo aprendido no treinamento anterior
 
@@ -14,15 +14,31 @@ Um pouco sobre os formulários
 
 2. Começando um formulário
 
-Nesta aula, vi:
+Nesta aula, aprendi:
 
+A criar um formulário HTML
 
+A tag que o representa é a <form>
+
+A tag <input>, para a entrada de dados do usuário
+
+A criar uma etiqueta para o input, com a tag <label>
+
+A conectar um input com o seu label
+
+Colocamos um id para o input e associamos esse id ao atributo for do label
+
+Alguns tipos de input, como text e submit
+
+Que label possui o display inline e o input possui display inline-block
+
+A estilizar o nosso formulário
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Tipos de campos diferentes
 
-Nesta aula, vi:
+Nesta aula, aprendi:
 
 
 
@@ -30,7 +46,7 @@ Nesta aula, vi:
 
 4. Melhorando a semântica
 
-Nesta aula, vi:
+Nesta aula, aprendi:
 
 
 
@@ -38,7 +54,7 @@ Nesta aula, vi:
 
 5. CSS avançado
 
-Nesta aula, vi:
+Nesta aula, aprendi:
 
 
 
@@ -46,6 +62,6 @@ Nesta aula, vi:
 
 6. Estrutura de tabelas
 
-Nesta aula, vi:
+Nesta aula, aprendi:
 
 
