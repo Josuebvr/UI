@@ -1,10 +1,20 @@
 1. Criando uma nova página
 
+Nesta aula, vi:
 
+Uma revisão do conteúdo aprendido no treinamento anterior
+
+Uma introdução ao projeto do treinamento
+
+A criação da página de contato
+
+Um pouco sobre os formulários
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Começando um formulário
+
+Nesta aula, vi:
 
 
 
@@ -12,11 +22,15 @@
 
 3. Tipos de campos diferentes
 
+Nesta aula, vi:
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 4. Melhorando a semântica
+
+Nesta aula, vi:
 
 
 
@@ -24,10 +38,14 @@
 
 5. CSS avançado
 
+Nesta aula, vi:
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 6. Estrutura de tabelas
+
+Nesta aula, vi:
 
 
