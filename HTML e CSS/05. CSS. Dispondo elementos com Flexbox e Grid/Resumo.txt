@@ -20,6 +20,7 @@ Nesta aula, aprendi:
 Nesta aula, aprendi:
 
     Como criar quebra de linha de um flex-container com a propriedade flex-wrap;
+    
         Flex-wrap é a propriedade que usamos quando não existe mais espaço para comportar todos os elementos horizontalmente/verticalmente e é 
         necessário uma “quebra de linha” para manter a proporção dos elementos.
 
