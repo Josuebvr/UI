@@ -1,4 +1,0 @@
-Começando com Front-end --> https://www.alura.com.br/artigos/comecando-com-front-end
-
-HTML, CSS e Javascript, quais as diferenças? --> https://www.alura.com.br/artigos/html-css-e-js-definicoes
-

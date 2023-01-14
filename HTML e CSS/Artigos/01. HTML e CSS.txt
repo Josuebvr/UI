@@ -1,0 +1,9 @@
+Começando com Front-end --> https://www.alura.com.br/artigos/comecando-com-front-end
+
+HTML, CSS e Javascript, quais as diferenças? --> https://www.alura.com.br/artigos/html-css-e-js-definicoes
+
+Reset CSS: O que é, Exemplos, Como Criar e Utilizar --> https://www.alura.com.br/artigos/o-que-e-reset-css
+
+Box Model e Box Sizing --> https://cursos.alura.com.br/extra/alura-mais/box-model-e-box-sizing-c1025
+
+Z-index: Como utilizar essa propriedade do CSS --> https://www.alura.com.br/artigos/z-index-utilizar-essa-propriedade-css

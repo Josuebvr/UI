@@ -1,0 +1,1 @@
+CSS: Grids e tabelas com responsividade na Web --> https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web
