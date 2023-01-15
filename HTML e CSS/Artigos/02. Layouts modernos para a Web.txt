@@ -1,1 +1,9 @@
 CSS: Grids e tabelas com responsividade na Web --> https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web
+
+CSS FlexBox: distribua elementos de forma responsiva --> https://cursos.alura.com.br/extra/alura-mais/css-flexbox-distribua-elementos-de-forma-responsiva-c301
+
+Flexbox CSS: Guia Completo, Elementos e Exemplos --> https://www.alura.com.br/artigos/css-guia-do-flexbox
+
+Front-end, Back-end e Full Stack --> https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end
+
+Srcset: Trabalhando com imagens responsivas --> https://www.alura.com.br/artigos/srcset-trabalhando-imagens-responsivas
