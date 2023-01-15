@@ -110,6 +110,8 @@ Nesta aula, aprendi:
 
 Nesta aula, aprendi:
 
+    As vantagens e utilização de grid areas;
     
+        Grid areas vem com o propósito de facilitar a manutenção de código e a visibilidade dos elementos dentro do grid container.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
